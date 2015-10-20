@@ -334,7 +334,7 @@ margin-top: -90px
 .bus img {
  
     bottom: 15%;
-    margin-left: 30%;
+    margin-left: 28%;
     width: 4rem; height: 8em;
     z-index: 1;
   }
@@ -377,7 +377,7 @@ background-size: auto 100%;
 }
 
 .logo {
-  width: 10em;
+  width: 9em;
   margin-top: 2%;
   left: 2%;
 }
