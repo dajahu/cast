@@ -261,13 +261,12 @@ margin-top: -90px
 
 
 .bus img {
- 
     bottom: 15%;
     margin-left: 34%;
     width: 4rem; height: 8em;
-    
     z-index: 1;
   }
+
 .container40 {
   width: 80%;
   
@@ -320,10 +319,10 @@ margin-top: -30px;
 @media screen and (max-width: 481px) {
 
 .illustration {
-background-image: url("../img/road.svg");
+background-image: url("../img/road3.svg");
 background-position: center;
 background-repeat: no-repeat;
-height: 2000px;
+height: 1500px;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -335,16 +334,17 @@ margin-top: -90px
 
 
 .bus img {
- 
     bottom: 15%;
     margin-left: 28%;
     width: 4rem; height: 8em;
     z-index: 1;
   }
+
 .container40 {
   width: 80%;
   margin-left: 5%;
 }
+
 .container40b {
   margin-top: 1%;
   border: solid 1px black;
