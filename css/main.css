@@ -104,9 +104,7 @@ height: 7rem;
 
 .container40b {
   margin-top: 1%;
-  border: solid 1px black;
   width: 80%;
-  height: 50%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -192,7 +190,6 @@ z-index: -50;
   margin-left: 5%;
   padding-top: 5%;
   text-align: center;
-  
   color: white;
 }
 
@@ -200,11 +197,9 @@ z-index: -50;
   font-size: 1.3rem;
   padding-top: 4%;
 }
+
 .containergoth p {
-  
   font-size:1.1rem;
-  
-  
 }
 
 .gothenburgpicture {
@@ -222,10 +217,13 @@ margin-top: -0%;
 	background-color: white;
 	background-position: center;
 background-repeat: no-repeat;
-height: 600px;
+height: 1000px;
+margin-top: -2.4%;
 z-index: 2;
 }
 
+
+/* fixed som problem before ipad screening*/
 
 @media screen and (max-width: 850px) {
 
