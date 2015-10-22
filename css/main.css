@@ -178,7 +178,7 @@ height: 7rem;
 
 
 .characterpicture {
-  background-image: url("../img/jfr1.png");
+  background-image: url("../img/jfr1.jpg");
 background-position: center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -220,7 +220,7 @@ z-index: -50;
 }
 
 .gothenburgpicture {
-background-image: url("../img/goth.png");
+background-image: url("../img/goth.jpg");
 background-position: center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -269,7 +269,7 @@ margin-top: -2%;
   }
 
   .gothenburgpicture {
-background-image: url("../img/goth.png");
+background-image: url("../img/goth.jpg");
 background-position: center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -358,7 +358,7 @@ margin-top: -20px;
 
 
 .gothenburgpicture {
-background-image: url("../img/goth.png");
+background-image: url("../img/goth.jpg");
 background-position: center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -451,7 +451,7 @@ height: 455px;
 }
 
 .gothenburgpicture {
-background-image: url("../img/goth.png");
+background-image: url("../img/goth.jpg");
 background-position: center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
