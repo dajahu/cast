@@ -233,6 +233,14 @@ height: 805px;
 margin-top: -0%;
 } 
 
+.listm {
+  background-image: url("../img/list.svg");
+  background-size: 100% 100%;
+  background-position: center;
+  height: 1200px;
+}
+
+
 .donationinfo {
 	background-color: white;
 	background-position: center;
@@ -525,6 +533,13 @@ h3 {
 .h3 {
   font-size: 1rem;
   margin-top: 0;
+}
+
+.listm {
+  background-image: url("../img/listm.svg");
+  background-size: 100% 100%;
+  background-position: center;
+  height: 400px;
 }
 
 }
