@@ -407,12 +407,12 @@ background-size: cover;
 }
 
 .characterpicture {
-  background-image: url("../img/jfr1.png");
-background-size: auto 100%;
-        background-repeat: no-repeat;
-        background-position: center;
+  background-image: url("../img/juliamobile.jpg");
+background-size: 100% auto;
+background-position: center;
+height: 505px;
  margin-top: -20px;
-  height: 804px;
+  
   z-index: 1;
 }
 
