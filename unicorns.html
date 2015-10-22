@@ -11,24 +11,7 @@
     <link rel="stylesheet" href="css/normalize.css" type="text/css"/>
     <link rel="stylesheet" href="css/main.css" type="text/css"/>
  
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-    <script>
-            $(function() {
-              $('a[href*=#]:not([href=#])').click(function() {
-                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-
-                  var target = $(this.hash);
-                  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-                  if (target.length) {
-                    $('html,body').animate({
-                      scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                  }
-                }
-              });
-            });
-    </script>
+    
 
     </head>
     
@@ -173,6 +156,24 @@ The only option is to seek a safe haven somewhere else.</p>
 
 })();
 </script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+    <script>
+            $(function() {
+              $('a[href*=#]:not([href=#])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+                  var target = $(this.hash);
+                  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                  if (target.length) {
+                    $('html,body').animate({
+                      scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                  }
+                }
+              });
+            });
+    </script>
 </footer>        
 </body>
 </html>
