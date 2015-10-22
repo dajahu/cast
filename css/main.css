@@ -173,6 +173,7 @@ height: 7rem;
 .blackarea {
   background-color: black;
   height: 500px;
+  margin-bottom: -2%;
 }
 
 
@@ -233,12 +234,16 @@ margin-top: -0%;
 	background-color: white;
 	background-position: center;
 background-repeat: no-repeat;
-height: 1000px;
+height: 1200px;
 margin-top: -2.4%;
 z-index: 2;
 }
 
-
+.footer {
+  background-color: black;
+  color: white;
+  height: 30px;
+}
 /* fixed som problem before ipad screening*/
 
 @media screen and (max-width: 850px) {
