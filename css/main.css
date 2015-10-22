@@ -71,7 +71,7 @@ height: 10rem;
 .h2 {
   font-size: 1.5rem;
   text-align: center;
-  margin-top: 9rem;
+  margin-top: 12rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 }
@@ -81,15 +81,15 @@ height: 10rem;
 }
 
 .refugee h2 {
-  font-size: 1.3rem;
-  padding-top: 2%;
+  font-size: 1.7rem;
+  padding-top: 8%;
 }
 .refugee p {
   width: 40%;
   float: left;
   margin-left: 1%;
-  font-size:1.1rem;
-  padding-top: 10%
+  font-size:1.4rem;
+  padding-top: 5%
   
 }
 
@@ -173,7 +173,7 @@ height: 10rem;
 
 .blackarea {
   background-color: black;
-  height: 250px;
+  height: 850px;
   margin-bottom: -2%;
 }
 
@@ -478,6 +478,12 @@ z-index: 2;
   font-size:1.1rem;
   padding-top: 10%
   
+}
+
+.blackarea {
+  background-color: black;
+  height: 650px;
+  margin-bottom: -2%;
 }
 
 }
