@@ -170,6 +170,11 @@ height: 7rem;
     color: white;
 }
 
+.blackarea {
+  background-color: black;
+  height: 500px;
+}
+
 
 .characterpicture {
   background-image: url("../img/jfr1.png");
@@ -274,7 +279,7 @@ margin-top: -0%;
 @media screen and (max-width: 769px) {
 
 .illustration {
-background-image: url("../img/road3.svg");
+background-image: url("../img/mobil_road.svg");
 background-position: center;
 background-repeat: no-repeat;
 height: 2000px;
@@ -428,7 +433,7 @@ background-size: cover;
   background-image: url("../img/juliamobile.jpg");
 background-size: 100% auto;
 background-position: center;
-height: 505px;
+height: 455px;
  margin-top: -20px;
   
   z-index: 1;
