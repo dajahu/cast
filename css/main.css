@@ -188,7 +188,7 @@ background-position: center;
 -o-background-size: cover;
 background-size: cover;
 height: 805px;
-  
+  margin-top: -3%;
   z-index: 1;
 }
 
@@ -233,12 +233,6 @@ height: 805px;
 margin-top: -0%;
 } 
 
-.listm {
-  background-image: url("../img/list.svg");
-  background-size: 100% 100%;
-  background-position: center;
-  height: 1200px;
-}
 
 
 .donationinfo {
@@ -254,6 +248,16 @@ z-index: 2;
   background-color: black;
   color: white;
   height: 70px;
+  text-align: center;
+  color: white;
+}
+
+.morpheus {
+  text-align: center;
+  margin: auto;
+  padding-top: 20%;
+  font-size: 3rem;
+ 
 }
 /* fixed som problem before ipad screening*/
 
@@ -263,7 +267,7 @@ z-index: 2;
 background-image: url("../img/road3.svg");
 background-position: center;
 background-repeat: no-repeat;
-height: 2000px;
+height: 1500px;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -298,7 +302,7 @@ margin-top: -0%;
 background-image: url("../img/mobil_road.svg");
 background-position: center;
 background-repeat: no-repeat;
-height: 2000px;
+height: 1940px;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -324,13 +328,13 @@ margin-top: -5%;
 
 .container40 {
   width: 80%;
-  margin-left: 5%;
+  margin-left: 20%;
 
 }
 .container40b {
   margin-top: 1%;
   width: 80%;
-  margin-left: 5%;
+  margin-left: 10%;
 }
 
 video {
@@ -354,7 +358,7 @@ background-size: cover;
 background-size: auto 100%;
         background-repeat: no-repeat;
         background-position: center;
-margin-top: -20px;
+margin-top: -30px;
   height: 804px;
   z-index: 1;
 }
@@ -535,12 +539,7 @@ h3 {
   margin-top: 0;
 }
 
-.listm {
-  background-image: url("../img/listm.svg");
-  background-size: 100% 100%;
-  background-position: center;
-  height: 400px;
-}
+
 
 }
 
